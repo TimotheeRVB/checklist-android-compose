@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Keystore / signing
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kotlin_module
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio navigation editor temp files
+.navigation/
+
+# IntelliJ
+out/
+
+# Google Services (optional: ignore only if you don't want it in repo)
+google-services.json
+
+# Firebase Crashlytics / perf local files
+firebaseCrashlytics.properties
+
+# Secrets / environment
+.env
+*.env
