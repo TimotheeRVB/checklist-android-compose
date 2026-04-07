@@ -1,5 +1,12 @@
 # CheckList
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-757575?style=flat&logo=material-design&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-34A853?style=flat&logo=google&logoColor=white)
+![Room](https://img.shields.io/badge/Room-FF6F00?style=flat&logo=sqlite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
 Application Android de gestion de tâches développée en **Kotlin** avec une architecture moderne basée sur **Jetpack Compose**, **ViewModel**, **StateFlow**, **Room**, **DataStore** et **Hilt**.
 
 Le projet propose une expérience simple de gestion de tâches avec persistance locale, recherche, filtrage et gestion claire des états d’interface.
