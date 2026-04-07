@@ -13,6 +13,16 @@ Le projet propose une expérience simple de gestion de tâches avec persistance 
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/list.png" width="250"/>
+  <img src="screenshots/empty.png" width="250"/>
+  <img src="screenshots/add.png" width="250"/>
+</p>
+
+---
+
 ## Fonctionnalités
 
 - affichage d’une liste de tâches
